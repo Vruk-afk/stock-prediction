@@ -4,3 +4,4 @@ pandas
 numpy
 timedelta 
 fuzzywuzzy
+scikit-learn
