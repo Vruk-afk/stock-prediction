@@ -5,3 +5,4 @@ numpy
 timedelta 
 fuzzywuzzy
 scikit-learn
+tensorflow
